@@ -24,12 +24,14 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    ```
+   **Run the below commands**
    ```bash
    cd your-repository
    ```
       ```bash
    python main.py
    ```
-
+      
+## Output
 Make sure you have Python installed on your system before running the script. You can install Python from python.org.
 
