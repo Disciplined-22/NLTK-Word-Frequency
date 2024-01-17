@@ -1,6 +1,6 @@
 ## Analyzing Textual Data with NLTK: Word Frequency and Common Word Identification
 
-A brief and catchy description of your project.
+This project uses Natural Language Toolkit (NLTK) library to conduct an insightful analysis of textual data. The primary objectives include calculating word frequency and identifying common words within a given text. 
 
 ## Table of Contents
 
