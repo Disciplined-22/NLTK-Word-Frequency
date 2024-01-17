@@ -1,4 +1,4 @@
-# Project Title
+# Project Title: Analyzing Textual Data with NLTK: Word Frequency and Common Word Identification
 
 A brief and catchy description of your project.
 
