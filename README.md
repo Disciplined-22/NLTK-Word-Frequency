@@ -6,8 +6,6 @@ A brief and catchy description of your project.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -22,16 +20,18 @@ To get started with this project, follow these steps:
 
 1. **Clone the GitHub Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Disciplined-22/NLTK-Word-Frequency
    ```
    **Run the below commands**
    ```bash
-   cd your-repository
+   cd NLTK-Word-Frequency
    ```
       ```bash
    python main.py
    ```
       
 ## Output
+The below would be the output
+![nltk](https://github.com/Disciplined-22/NLTK-Word-Frequency/assets/129745308/fb56f451-042a-4ad6-87fc-91e42acd7b9c)
 Make sure you have Python installed on your system before running the script. You can install Python from python.org.
 
