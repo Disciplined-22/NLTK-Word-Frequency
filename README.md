@@ -34,5 +34,6 @@ To get started with this project, follow these steps:
 The output is shown in below image
 ![nltk](https://github.com/Disciplined-22/NLTK-Word-Frequency/assets/129745308/fb56f451-042a-4ad6-87fc-91e42acd7b9c)
 
-Make sure you have Python installed on your system before running the script. You can install Python from python.org.
+Make sure you have Python installed on your system before running the script. You can install Python from [python.org](https://www.python.org/)
+
 
